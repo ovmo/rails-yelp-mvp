@@ -27,9 +27,12 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+# OWN IMPORT OF GEMS
+
 # bootstrap gem
-gem 'bootstrap-sass'
 gem 'bootstrap'
+
+# gem 'bootstrap-sass'
 
 # Simple form tool
 gem 'simple_form'
